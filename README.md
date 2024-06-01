@@ -3,4 +3,4 @@ Various Gran Turismo Circuit map images in high quality and with separated layer
 These can be used to create various texture assets for Gran Turismo Games.
 
 Examples:
-![alt text](https://github.com/Silentwarior112/GT-Trackmaps/Examples/apricothill.png?raw=true)
+https://github.com/Silentwarior112/GT-Trackmaps/Examples/apricothill.png?raw=true
