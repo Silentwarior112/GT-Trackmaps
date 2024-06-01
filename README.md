@@ -1,4 +1,5 @@
 Various Gran Turismo Circuit map images in high quality and with separated layers.
+Images made with paint.net. The source .pdn files are used with [paint.net](https://getpaint.net/download.html)
 These can be used to create various texture assets for Gran Turismo Games.
 
 Each folder will contain the images corresponding to distinct styles found in the games.
