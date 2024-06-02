@@ -1,13 +1,14 @@
-Various Gran Turismo Circuit map images in high quality and with separated layers.
+Various Gran Turismo circuit map images in high quality and with separated layers.
 Images made with paint.net. The source .pdn files are used with [paint.net.](https://getpaint.net/download.html)
 
 These can be used to create various texture assets for Gran Turismo Games.
 
 Each folder will contain the images corresponding to distinct styles found in the games.
 
-Completed style sets can be viewed as a collage here:
+Completed style sets will be uploaded as a collage here:
 
 [GT3 Run & Setting](https://drive.google.com/drive/folders/1peScNZyxePbDr5HsbF3uDbh4hDROLRWw)
+
 
 Example images:
 
