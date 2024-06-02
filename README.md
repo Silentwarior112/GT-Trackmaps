@@ -5,7 +5,7 @@ These can be used to create various texture assets for Gran Turismo Games.
 
 Each folder will contain the images corresponding to distinct styles found in the games.
 
-Completed style sets can be viewed here:
+Completed style sets can be viewed as a collage here:
 
 [GT3 Run & Setting](https://drive.google.com/drive/folders/1peScNZyxePbDr5HsbF3uDbh4hDROLRWw)
 
